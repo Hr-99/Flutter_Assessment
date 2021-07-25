@@ -5,7 +5,7 @@
 
 
 
-![OMdb_API_Sreenshot](raw/OMDb_API.png)
+![OMdb_API_Sreenshot](OMDb_API.png)
 
 
 
